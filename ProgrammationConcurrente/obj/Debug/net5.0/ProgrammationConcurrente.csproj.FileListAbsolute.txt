@@ -1,0 +1,16 @@
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.exe
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.deps.json
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.runtimeconfig.json
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.runtimeconfig.dev.json
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.dll
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ref\ProgrammationConcurrente.dll
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\bin\Debug\net5.0\ProgrammationConcurrente.pdb
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.csproj.AssemblyReference.cache
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.AssemblyInfoInputs.cache
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.AssemblyInfo.cs
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.csproj.CoreCompileInputs.cache
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.dll
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ref\ProgrammationConcurrente.dll
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.pdb
+C:\Users\amine\source\repos\Sol_ProgrammationConcurrente\ProgrammationConcurrente\obj\Debug\net5.0\ProgrammationConcurrente.genruntimeconfig.cache
